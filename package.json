@@ -1,0 +1,29 @@
+{
+  "name": "generator-blockfe-cli",
+  "version": "0.0.1",
+  "description": "a yeoman generator to start a web project quickly",
+  "main": "generators/app/index.js",
+  "homepage": "https://github.com/blockfe/generator-blockfe-cli/",
+  "scripts": {
+    "dev": "yo ./generators/app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "blockfe",
+    "vue",
+    "mobile"
+  ],
+  "author": "xLogic <xlogic@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "beeper": "^2.0.0",
+    "boxen": "^3.2.0",
+    "chalk": "^2.4.2",
+    "download-git-repo": "^1.1.0",
+    "fs-extra": "^7.0.1",
+    "ora": "^3.4.0",
+    "update-notifier": "^2.5.0",
+    "yeoman-generator": "^3.2.0"
+  }
+}
