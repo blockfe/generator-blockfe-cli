@@ -20,6 +20,7 @@ const DEFAULT_DIR = 'web-app';
 const GIT_BASE = 'https://github.com/';
 const TPL_REPOSITORY = [
   { name: 'vue-h5-template', value: 'blockfe/vue-h5-template' },
+  { name: 'vue-pc-template', value: 'blockfe/vue-pc-template' },
   { name: 'nuxt-pc-template', value: 'blockfe/nuxt-pc-template' }
 ];
 const DEFAULT_TPL = 'blockfe/vue-h5-template';
