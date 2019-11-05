@@ -1,6 +1,6 @@
 {
   "name": "generator-blockfe-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a yeoman generator to start a web project quickly",
   "main": "generators/app/index.js",
   "homepage": "https://github.com/blockfe/generator-blockfe-cli/",
